@@ -11,16 +11,16 @@ This repository showcases a comprehensive **SQL-based analysis** of Indian crick
 
 ## 🛠️ Tech Stack
 
-- **SQL** (written and executed using [PostgreSQL / MySQL / SQLite] — update as per your use)
+- **SQL** (written and executed using [ MySQL ]
 - **Cricket datasets** in CSV format
-- [Optional] Data exported to Excel/CSV for visualization
+- Data exported to Excel/CSV for visualization
 
 ## 🔍 Key Features
 
 - 📅 Breakdown of performances by year and match format
 - 📊 Insights into batting and bowling consistency
 - 🧠 Analysis of performance against specific teams
-- 🏟️ Home vs. away comparisons
+
 
 ## 📂 Dataset Sources
 
